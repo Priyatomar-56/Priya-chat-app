@@ -1,0 +1,74 @@
+body{
+    margin:0;
+}
+@media (max-aspect-ratio: 7/10) {
+    .JoinPage{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start !important;
+    
+    }
+    .JoinContainer{
+        margin-top: 30vw !important;
+        width:30vw !important;
+    }
+    .JoinContainer >h1{
+        color: aliceblue;
+        font-size: 6vw !important;
+        width: 55w !important;
+        border-bottom: 0.6vw solid white !important;
+        padding: 3vw !important; 
+       
+    }
+    #joinInput{
+        width: 65vw !important;
+        padding: 4vw !important;
+        font-size: 5vw !important;
+        margin: 5vw !important;
+    }
+    .joinbtn{
+        width: 65vw !important;
+        padding: 4vw !important;
+        font-size: 5vw !important;
+    
+    }
+    .ChatContainer{
+        width: 100% !important;
+        height:100% !important;
+        width: 100% !important;
+    }
+    .header{
+        height: 10% !important; 
+    }
+    .header>h2{
+        margin: 8vw !important;
+        font-size: 5vw !important;
+    }
+    .header img{
+        margin: 6vw !important;
+         transform: scale(1.6) !important;  
+    }
+    .header>img:hover{
+        transform: scale(3.2);
+    }
+    .chatBox{
+        height: 80% !important;
+       }
+       .inputBox{
+        height: 10% !important;
+       
+    }
+    .chatInput{
+       font-size: 4vw !important;
+        padding : 4vw !important;
+       
+       }
+       .messagebox{
+        width: initial !important;
+        padding: 3vw !important;
+        font-size: 3.5vw !important;
+        border-radius: 3.7vw !important;
+        margin: 3vw !important;
+    
+    }
+}
