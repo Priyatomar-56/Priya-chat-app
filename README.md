@@ -1,3 +1,3 @@
-# priya-chat-app
+# v-chat-app
 
-Link: https://priya-chat-app.netlify.app/
+Link: https://v-chat-app.netlify.app/
