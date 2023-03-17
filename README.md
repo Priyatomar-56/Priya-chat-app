@@ -1,3 +1,3 @@
-# v-chat-app
+# vishal-chat-app
 
-Link: https://v-chat-app.netlify.app/
+Link: https://vishal-chat-app.netlify.app/
